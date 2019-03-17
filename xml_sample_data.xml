@@ -1,0 +1,22 @@
+<class>
+   <stud rolln = "393" cours="mmomo">
+      <first>xffg</first>
+      <last>kad</last>
+      <nick>dinkr</nick>
+      <marks>85</marks>
+   </stud>
+   
+   <stud rolln = "493" cours="mmomo">
+      <first>Vanee</first>
+      <last>Gupta</last>
+      <nick>vinni</nick>
+      <marks>95</marks>
+   </stud>
+   
+   <stud rolln = "593" cours="mmomo">
+      <first>jasv</first>
+      <last>singn</last>
+      <nick>jazz</nick>
+      <marks>90</marks>
+   </stud>
+</class>
